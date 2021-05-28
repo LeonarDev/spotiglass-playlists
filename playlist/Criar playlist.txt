@@ -1,0 +1,5 @@
+- CRIAR PLAYLIST (criar uma tela pra criar uma playlist e adicionar as musicas)
+  > Criar formatação html
+  > Criar integração com o banco
+  > Criar as tabelas
+  > Criar inserção por JS
